@@ -1,0 +1,5 @@
+com\pinyougou\shop\controller\SellerController.class
+com\pinyougou\service\userDetailServiceimpl.class
+com\pinyougou\shop\controller\ItemCatController.class
+com\pinyougou\shop\controller\GoodsController.class
+com\pinyougou\shop\controller\UploadController.class
